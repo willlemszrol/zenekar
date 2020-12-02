@@ -30,3 +30,85 @@ table tr td{
 100/5=20
 
 */
+
+li{
+    list-style-type: none;
+}
+ul{
+    padding: 0;
+}
+.kon li{
+    
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: 'Architects Daughter', cursive;
+}
+.kon li b{
+    font-size: 20px;
+}
+.kon h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    font-family: 'Architects Daughter', cursive;
+
+
+}
+.cim{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    font-family: 'Architects Daughter', cursive;
+ 
+}
+.kon{
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: 'Architects Daughter', cursive;
+}
+.termék{
+    border: 1px solid black;
+    width:200px;
+    height:400px ;
+    float: left;
+    margin: 20px;
+}
+.termék img{
+    width: 100%;
+}
+.termék h2{
+    text-align: center;
+}
+.termék h3{
+    text-align: center;
+}
+.termék button{
+    width: 100%;
+    background-color:black ;
+    border:none;
+    height: 50px;
+    color: white;
+
+}
+.nad{
+    border: 1px solid black;
+    width:200px;
+    height:400px ;
+    float: left;
+    margin: 20px;
+}
+.nad button{
+    width: 100%;
+    background-color:black ;
+    border:none;
+    height: 50px;
+    color: white;
+}
+.nad img{
+    width: 100%;
+}
+.nad h2 , .nad h3{
+    text-align: center;
+}

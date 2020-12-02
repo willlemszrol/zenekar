@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    background-color: darkred;
+}
+table{
+    width: 100%;
+}
+img{
+    width: 300px;
+    
+}
+li{
+    background-color: tomato;
+    list-style: none;
+    width: 300px;
+    text-align: center;
+    line-height: 30px;
+    border: 1px solid black;
+    margin:auto;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
+
+td{
+    text-align: center;
+}
